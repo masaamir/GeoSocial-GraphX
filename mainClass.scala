@@ -4,7 +4,7 @@
 object mainClass {
 
   def main(args:Array[String]) ={
-    println("Allah O Akbar")
+    println("test")
 
   }
 
