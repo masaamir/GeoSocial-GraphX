@@ -4,7 +4,7 @@
 object mainClass {
 
   def main(args:Array[String]) ={
-    println("GeoSocial-GraphX - Code to be released soon !!")
+    println("GeoSocial-GraphX - Code to be released soon !! ")
 
   }
 
